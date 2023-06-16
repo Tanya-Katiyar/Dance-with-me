@@ -1,7 +1,7 @@
 # Dance-with-me
 Dance-With-Me application matches the users in accordance with their preferences (location, gender, age, weight and height) and show the events in which they can enjoy together.
 
-Technology-Tool-Stack
+Technology-Tool-Stack <br>
 NodeJS 
 MongoDB Atlas 
 MongoDB Compass
