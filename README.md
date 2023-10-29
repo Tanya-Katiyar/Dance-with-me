@@ -4,11 +4,8 @@ Dance-With-Me application matches the users in accordance with their preferences
 <h3>Technology-Tool-Stack </h3> <br>
 NodeJS  <br>
 MongoDB Atlas  <br>
-MongoDB Compass <br>
 Mongoose <br>
 ExpressJS <br>
 JWT  <br>
-Bcrypt  <br>
 React  <br>
-Axios <br>
 Bootstrap  <br>
