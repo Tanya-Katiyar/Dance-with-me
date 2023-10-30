@@ -7,5 +7,6 @@ MongoDB Atlas  <br>
 Mongoose <br>
 ExpressJS <br>
 JWT  <br>
+Axios <br>
 React  <br>
 Bootstrap  <br>
